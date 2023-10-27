@@ -1,0 +1,19 @@
+Задание 1
+В этом задании вам необходимо “расшифровать” 4 “шифротекста”:
+SXQncyBiYXNlNjQK
+497473206120686578
+SGksIE1hcmlhLiBIb3cgYXJlIHlvdT8K
+KVXGK6DQMVRXIZLEEBSW4Y3PMRUW4ZZOEBBHK5BAPFXXKIDENFSCA2LUFQQHE2LHNB2D6CQ=
+
+Задание 2
+Ниже представлены хеши некоторых словарных паролей. Найдите их исходные значения (сами пароли).
+
+8cca64749f22aa0c1925c2e21e452f4fd33b0ce11d9dc9a5cabd244458f34089
+2ddf70ab0eed47a05a45bfc44707dfad
+512c3550c043c07d4419bcf4bcd5bdab748d4586
+e12bd29bb98030b862c06ee56bd5b06b
+990dc51251a5294891871d427a90595fd86fbd0d
+df7371d70cd17e473fded3938fb3cf922e6f2130
+dbfef27b3d5ec5ea19127faf280a7e995a0da72a
+eb0d6a426fcbae4c825c513f45440ea3c8d35132
+cb0367405622a39bdcfd2f5bb7e7ef326857693b
